@@ -1,7 +1,7 @@
-# IP-Track
+# IP-Track 🔎
 <i>**IP and geolocation tracking tool**</i>
 
-## Commands
+## 💿 Installation 💿
 ```
 git clone https://github.com/Err0r-ICA/IP-Track
 cd IP-Track
@@ -13,10 +13,10 @@ bash IP-Track
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Err0r-ICA&hide=ruby,perl&hide_border=true" />  -->
 </p>
 
-## Screenshot
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/t4FD1dhZ/Screenshot-20201109-212338-Termux.jpg)
 
-### My Accounts
+### 👤 My Accounts 👤
 * [TELEGRAM](https://t.me/kalit3rmux)
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 * [INSTAGRAM](https://instagram.com/termux_hacking)
