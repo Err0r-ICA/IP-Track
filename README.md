@@ -17,7 +17,7 @@ bash IP-Track
 ![Screenshot](https://i.ibb.co/BqqHSRT/Screenshot-20201109-212338-Termux.jpg)
 
 ### 👤 My Accounts 👤
-* [TELEGRAM](https://t.me/kalit3rmux)
+* [TELEGRAM](https://t.me/hacking1337stuff)
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 * [INSTAGRAM](https://instagram.com/termux_hacking)
 <p align="center">
