@@ -17,9 +17,9 @@ bash IP-Track
 ![Screenshot](https://i.ibb.co/BqqHSRT/Screenshot-20201109-212338-Termux.jpg)
 
 ### 👤 My Accounts 👤
-* [TELEGRAM](https://t.me/hacking1337stuff)
+* [TELEGRAM](https://t.me/DefacErr)
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
-* [INSTAGRAM](https://instagram.com/termux_hacking)
+* [INSTAGRAM](https://instagram.com/)
 <p align="center">
 <a href="https://github.com/Err0r-ICA/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
 <a href="https://github.com/Err0r-ICA/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovehacker404/World?color=red&style=flat-square"></a>
